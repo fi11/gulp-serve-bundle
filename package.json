@@ -1,0 +1,28 @@
+{
+  "name": "gulp-serve-bundle",
+  "version": "0.0.1",
+  "description": "Gulp task for serve bh bundle",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fi11/gulp-serve-bundle.git"
+  },
+  "keywords": [
+    "bh",
+    "bh-bundle",
+    "template",
+    "bem",
+    "static",
+    "gulp"
+  ],
+  "bugs": {
+    "url": "https://github.com/fi11/gulp-serve-bundle/issues"
+  },
+  "homepage": "https://github.com/fi11/gulp-serve-bundle",
+  "author": "Pavel Silin",
+  "license": "MIT",
+  "dependencies": {
+    "through2": "~0.5.1",
+    "gulp": "~3.7.0"
+  },
+  "devDependencies": {}
+}
